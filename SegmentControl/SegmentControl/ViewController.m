@@ -72,6 +72,8 @@
 
 //Second commit
 
+//We switched to chocolate, and made this commit.
+
 -(void)recordScreen {
     
     BOOL screenWasFound = NO;
