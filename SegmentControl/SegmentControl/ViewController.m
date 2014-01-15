@@ -66,6 +66,8 @@
     
 }
 
+//Adding test comment for git
+
 -(void)recordScreen {
     
     BOOL screenWasFound = NO;
