@@ -74,6 +74,8 @@
 
 //Third commit
 
+//Welcome to the vanilla branch
+
 -(void)recordScreen {
     
     BOOL screenWasFound = NO;
