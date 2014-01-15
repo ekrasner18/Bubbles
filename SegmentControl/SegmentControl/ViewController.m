@@ -68,6 +68,8 @@
 
 //Adding test comment for git
 
+//First commit
+
 -(void)recordScreen {
     
     BOOL screenWasFound = NO;
