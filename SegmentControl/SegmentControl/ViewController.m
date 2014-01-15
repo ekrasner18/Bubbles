@@ -72,6 +72,8 @@
 
 //Second commit
 
+//Switched to master, and committing.
+
 -(void)recordScreen {
     
     BOOL screenWasFound = NO;
