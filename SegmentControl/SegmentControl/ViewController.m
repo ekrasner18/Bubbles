@@ -72,6 +72,8 @@
 
 //Second commit
 
+//Third commit
+
 -(void)recordScreen {
     
     BOOL screenWasFound = NO;
